@@ -19,6 +19,8 @@ LICENSE: [MIT](./license.md)
 10. [git push](git_push.md)
 11. [git pull](git_pull.md)
 12. [git status](git_status.md)
+13. [links](links.md)
+14. [puctures](pictures.md)
 
 ---
 
