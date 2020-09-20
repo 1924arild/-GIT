@@ -11,3 +11,5 @@ git remote –v
 ```bash=
 git remote add origin <адрес.удаленного.сервера>
 ```
+
+[<назад>](./git_branch.md)[<В главное меню>](./readme.md)[<вперед>](./git_checkout.md)

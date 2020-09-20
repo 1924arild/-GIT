@@ -5,3 +5,5 @@
 ```bash=
 git push
 ```
+
+[<назад>](./git_init.md)[<В главное меню>](./readme.md)[<вперед>](./git_pull.md)

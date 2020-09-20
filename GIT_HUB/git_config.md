@@ -4,3 +4,5 @@
 ```bash=
 git config --global user.email адрес@gmail.com
 ```  
+
+[<назад>](./GIT.md)[<В главное меню>](./readme.md)[<вперед>](./git_add.md)

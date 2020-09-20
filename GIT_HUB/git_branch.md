@@ -11,3 +11,5 @@ git branch
 ```bash=
 git branch –d <имя-ветки>
 ```
+
+[<назад>](./git_commit.md)[<В главное меню>](./readme.md)[<вперед>](./git_remote.md)

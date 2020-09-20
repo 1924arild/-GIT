@@ -5,3 +5,5 @@
 ```bash=
 git status
 ```
+
+[<назад>](./git_pull.md)[<В главное меню>](./readme.md)

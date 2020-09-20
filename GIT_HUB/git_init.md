@@ -7,3 +7,5 @@
 ```bash=
 git init
 ```  
+
+[<назад>](./git_clone.md)[<В главное меню>](./readme.md)[<вперед>](./git_push.md)

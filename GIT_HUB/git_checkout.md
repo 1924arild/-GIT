@@ -11,3 +11,5 @@ command git checkout -b <имя-ветки>
 ```bash=
 git checkout -b <имя-ветки>
 ```
+
+[<назад>](./git_remote.md)[<В главное меню>](./readme.md)[<вперед>](./git_clone.md)

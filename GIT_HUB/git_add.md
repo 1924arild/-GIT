@@ -7,3 +7,4 @@
 ```bash=
 git add
 ```  
+[<назад>](./git_config.md)[<В главное меню>](./readme.md)[<вперед>](./git_commit.md)
